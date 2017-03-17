@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="standpipe_yamato" id="standpipe_yamato">
+	<SimpleField name="cartodb_id" type="int"></SimpleField>
+	<SimpleField name="addr_block_number" type="int"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="addr_housenumber" type="string"></SimpleField>
+	<SimpleField name="addr_neighbourhood" type="string"></SimpleField>
+	<SimpleField name="addr_quarter" type="string"></SimpleField>
+	<SimpleField name="addr_city" type="string"></SimpleField>
+	<SimpleField name="addr_province" type="string"></SimpleField>
+	<SimpleField name="adress" type="string"></SimpleField>
+	<SimpleField name="fire_horse_landmark_xxx_description" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="name_zh" type="string"></SimpleField>
+	<SimpleField name="name_es" type="string"></SimpleField>
+	<SimpleField name="name_ja_hira" type="string"></SimpleField>
+	<SimpleField name="name_ja_latn" type="string"></SimpleField>
+	<SimpleField name="name_en" type="string"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>standpipe_yamato</name>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">1</SimpleData>
+		<SimpleData name="addr_block_number">16</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="addr_housenumber">18</SimpleData>
+		<SimpleData name="addr_neighbourhood">八丁目</SimpleData>
+		<SimpleData name="addr_quarter">上草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上草柳8－16－18</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソン上草柳八丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48317571</SimpleData>
+		<SimpleData name="longitude">139.4507432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4507432,35.48317571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">2</SimpleData>
+		<SimpleData name="addr_block_number">17</SimpleData>
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="addr_housenumber">22</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央林間西</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央林間西2－17－22</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソン大和中央林間西二丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.50102121</SimpleData>
+		<SimpleData name="longitude">139.4359326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4359326,35.50102121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">3</SimpleData>
+		<SimpleData name="addr_block_number">1790</SimpleData>
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">上和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上和田1790－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソン桜ヶ丘南店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.44900069</SimpleData>
+		<SimpleData name="longitude">139.4673603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.467360299999967,35.44900069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">4</SimpleData>
+		<SimpleData name="addr_block_number">13</SimpleData>
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="addr_housenumber">9</SimpleData>
+		<SimpleData name="addr_neighbourhood">七丁目</SimpleData>
+		<SimpleData name="addr_quarter">南林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市南林間7－13－9</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソンストア100南林間十一条店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49144864</SimpleData>
+		<SimpleData name="longitude">139.4375321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4375321,35.49144864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">5</SimpleData>
+		<SimpleData name="addr_block_number">1</SimpleData>
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="addr_housenumber">13</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見東</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見東1－1－13</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソンストア100大和深見東店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47741281</SimpleData>
+		<SimpleData name="longitude">139.4651217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4651217,35.47741281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">6</SimpleData>
+		<SimpleData name="addr_block_number">13</SimpleData>
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="addr_housenumber">23</SimpleData>
+		<SimpleData name="addr_neighbourhood">三丁目</SimpleData>
+		<SimpleData name="addr_quarter">西鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市西鶴間3-13-23</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソン西鶴間三丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48833783</SimpleData>
+		<SimpleData name="longitude">139.4492482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4492482,35.48833783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">7</SimpleData>
+		<SimpleData name="addr_block_number">6</SimpleData>
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="addr_housenumber">27</SimpleData>
+		<SimpleData name="addr_neighbourhood">六丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央6-6-27</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソンストア100大和中央六丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46429722</SimpleData>
+		<SimpleData name="longitude">139.460577</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.460577,35.46429722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">8</SimpleData>
+		<SimpleData name="addr_block_number">21</SimpleData>
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市草柳2-21-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソン大和草柳二丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46311959</SimpleData>
+		<SimpleData name="longitude">139.4571699</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4571699,35.46311959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">9</SimpleData>
+		<SimpleData name="addr_block_number">697</SimpleData>
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間697－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ローソンつきみ野店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.50801304</SimpleData>
+		<SimpleData name="longitude">139.4622775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4622775,35.50801304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">10</SimpleData>
+		<SimpleData name="addr_block_number">170</SimpleData>
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="addr_housenumber">5</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">上草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上草柳170-5</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ミニストップ大和上草柳店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47513315</SimpleData>
+		<SimpleData name="longitude">139.4381731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4381731,35.47513315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">11</SimpleData>
+		<SimpleData name="addr_block_number">22</SimpleData>
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood">三丁目</SimpleData>
+		<SimpleData name="addr_quarter">草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市草柳3-22-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ミニストップ大和草柳３丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.45991646</SimpleData>
+		<SimpleData name="longitude">139.4576517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.457651700000014,35.45991646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">12</SimpleData>
+		<SimpleData name="addr_block_number">15</SimpleData>
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="addr_housenumber">5</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">柳橘</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市柳橋2-15-5</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ミニストップ大和柳橋店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.45755129</SimpleData>
+		<SimpleData name="longitude">139.4644194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4644194,35.45755129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">13</SimpleData>
+		<SimpleData name="addr_block_number">6</SimpleData>
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="addr_housenumber">6</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">代官</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市代官2-6-6</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ミニストップ大和代官二丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.44051408</SimpleData>
+		<SimpleData name="longitude">139.4582458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.458245799999986,35.44051408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">14</SimpleData>
+		<SimpleData name="addr_block_number">1785</SimpleData>
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="addr_housenumber">10</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間1785-10</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ミニストップ大和下鶴間店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.50122303</SimpleData>
+		<SimpleData name="longitude">139.4520599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4520599,35.50122303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">15</SimpleData>
+		<SimpleData name="addr_block_number">2</SimpleData>
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="addr_housenumber">2</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見西</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見西2－2－2</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート深見西店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47539444</SimpleData>
+		<SimpleData name="longitude">139.464039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.464039,35.47539444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">16</SimpleData>
+		<SimpleData name="addr_block_number">2777</SimpleData>
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="addr_housenumber">5</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間2777－5－6－B</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート大和下鶴間店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49179437</SimpleData>
+		<SimpleData name="longitude">139.4567954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4567954,35.49179437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">17</SimpleData>
+		<SimpleData name="addr_block_number">7</SimpleData>
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="addr_housenumber">14</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">南林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市南林間1－7－14</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート南林間駅前店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49533058</SimpleData>
+		<SimpleData name="longitude">139.447449</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.447449,35.49533058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">18</SimpleData>
+		<SimpleData name="addr_block_number">2</SimpleData>
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="addr_housenumber">32</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見西</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見西1－2－32</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート深見西一丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47471904</SimpleData>
+		<SimpleData name="longitude">139.4607155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4607155,35.47471904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">19</SimpleData>
+		<SimpleData name="addr_block_number">104</SimpleData>
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="addr_housenumber">3</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">上草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上草柳104-3</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート大和上草柳店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47190859</SimpleData>
+		<SimpleData name="longitude">139.4449126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4449126,35.47190859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">20</SimpleData>
+		<SimpleData name="addr_block_number">14</SimpleData>
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="addr_housenumber">20</SimpleData>
+		<SimpleData name="addr_neighbourhood">四丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央林間4－14－20</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート中央林間駅東口店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.50800374</SimpleData>
+		<SimpleData name="longitude">139.4461647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4461647,35.50800374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">21</SimpleData>
+		<SimpleData name="addr_block_number">2</SimpleData>
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="addr_housenumber">4</SimpleData>
+		<SimpleData name="addr_neighbourhood">三丁目</SimpleData>
+		<SimpleData name="addr_quarter">草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市草柳3－2－4</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート大和草柳三丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.45861428</SimpleData>
+		<SimpleData name="longitude">139.4580608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4580608,35.45861428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">22</SimpleData>
+		<SimpleData name="addr_block_number">44</SimpleData>
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間44－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマートつきみ野入口店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.51623849</SimpleData>
+		<SimpleData name="longitude">139.4563111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4563111,35.51623849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">23</SimpleData>
+		<SimpleData name="addr_block_number">17</SimpleData>
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="addr_housenumber">4</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">代官</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市代官2－17－4</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート大和代官二丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43958642</SimpleData>
+		<SimpleData name="longitude">139.4581271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.458127100000013,35.43958642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">24</SimpleData>
+		<SimpleData name="addr_block_number">18</SimpleData>
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="addr_housenumber">6</SimpleData>
+		<SimpleData name="addr_neighbourhood">四丁目</SimpleData>
+		<SimpleData name="addr_quarter">代官</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市代官4－18－6</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">ファミリーマート大和代官四丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43908654</SimpleData>
+		<SimpleData name="longitude">139.4538464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4538464,35.43908654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">25</SimpleData>
+		<SimpleData name="addr_block_number">25</SimpleData>
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="addr_housenumber">11</SimpleData>
+		<SimpleData name="addr_neighbourhood">七丁目</SimpleData>
+		<SimpleData name="addr_quarter">南林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市南林間7－25－11</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和南林間7丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49097008</SimpleData>
+		<SimpleData name="longitude">139.4356229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4356229,35.49097008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">26</SimpleData>
+		<SimpleData name="addr_block_number">5</SimpleData>
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">柳橘</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市柳橋1－5－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和柳橋1丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46092984</SimpleData>
+		<SimpleData name="longitude">139.4639753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.463975299999987,35.46092984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">27</SimpleData>
+		<SimpleData name="addr_block_number">20</SimpleData>
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="addr_housenumber">2</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市鶴間1－20－24</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和鶴間1丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48676202</SimpleData>
+		<SimpleData name="longitude">139.455849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.455849,35.48676202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">28</SimpleData>
+		<SimpleData name="addr_block_number">2793</SimpleData>
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="addr_housenumber"></SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間2793</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和下鶴間店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49476436</SimpleData>
+		<SimpleData name="longitude">139.4540144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4540144,35.49476436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">29</SimpleData>
+		<SimpleData name="addr_block_number">1995</SimpleData>
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">福田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市福田1995－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和福田店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43454038</SimpleData>
+		<SimpleData name="longitude">139.4618576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4618576,35.43454038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">30</SimpleData>
+		<SimpleData name="addr_block_number">3217</SimpleData>
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="addr_housenumber">16</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市林間1－3217－16</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和林間1丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49525412</SimpleData>
+		<SimpleData name="longitude">139.4508918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4508918,35.49525412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">31</SimpleData>
+		<SimpleData name="addr_block_number">5</SimpleData>
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="addr_housenumber">4</SimpleData>
+		<SimpleData name="addr_neighbourhood">六丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見西</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見西6-5-4</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和深見西6丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48519558</SimpleData>
+		<SimpleData name="longitude">139.4634287</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4634287,35.48519558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">32</SimpleData>
+		<SimpleData name="addr_block_number">9</SimpleData>
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="addr_housenumber">12</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間2-9-12</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和下鶴間２丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49257834</SimpleData>
+		<SimpleData name="longitude">139.4618563</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4618563,35.49257834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">33</SimpleData>
+		<SimpleData name="addr_block_number">1</SimpleData>
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="addr_housenumber">9</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">中央林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央林間１－９</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和中央林間１丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.50209359</SimpleData>
+		<SimpleData name="longitude">139.4432124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4432124,35.50209359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">34</SimpleData>
+		<SimpleData name="addr_block_number">5682</SimpleData>
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="addr_housenumber">6</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">福田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市福田5682-6</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和福田東店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.45590587</SimpleData>
+		<SimpleData name="longitude">139.4667665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4667665,35.45590587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">35</SimpleData>
+		<SimpleData name="addr_block_number">394</SimpleData>
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="addr_housenumber">7</SimpleData>
+		<SimpleData name="addr_neighbourhood">七丁目</SimpleData>
+		<SimpleData name="addr_quarter">上草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上草柳7-394-7</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和上草柳７丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48493529</SimpleData>
+		<SimpleData name="longitude">139.4514679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.451467900000011,35.48493529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">36</SimpleData>
+		<SimpleData name="addr_block_number">2339</SimpleData>
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="addr_housenumber">12</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">福田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市福田2339-12</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和福田中央店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.4402844</SimpleData>
+		<SimpleData name="longitude">139.4657796</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4657796,35.4402844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">37</SimpleData>
+		<SimpleData name="addr_block_number">104</SimpleData>
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="addr_housenumber"></SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下和田104</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和いちょう団地店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43118669</SimpleData>
+		<SimpleData name="longitude">139.471973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.471973,35.43118669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">38</SimpleData>
+		<SimpleData name="addr_block_number">4</SimpleData>
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="addr_housenumber">16</SimpleData>
+		<SimpleData name="addr_neighbourhood">五丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央林間5－4－16</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和中央林間5丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.51189421</SimpleData>
+		<SimpleData name="longitude">139.4424686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.442468600000012,35.51189421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">39</SimpleData>
+		<SimpleData name="addr_block_number">12</SimpleData>
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="addr_housenumber">18</SimpleData>
+		<SimpleData name="addr_neighbourhood">三丁目</SimpleData>
+		<SimpleData name="addr_quarter">桜森</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市桜森3－12－18</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和桜森店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47300628</SimpleData>
+		<SimpleData name="longitude">139.4374642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4374642,35.47300628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">40</SimpleData>
+		<SimpleData name="addr_block_number">9</SimpleData>
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood">六丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央6－9－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和中央6丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46258316</SimpleData>
+		<SimpleData name="longitude">139.4607346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4607346,35.46258316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">41</SimpleData>
+		<SimpleData name="addr_block_number">31</SimpleData>
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="addr_housenumber">3</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市鶴間1－31－3</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和市鶴間駅前店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49043235</SimpleData>
+		<SimpleData name="longitude">139.4539308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4539308,35.49043235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">42</SimpleData>
+		<SimpleData name="addr_block_number">1626</SimpleData>
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">上和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上和田1626－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和上和田中央店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.44927058</SimpleData>
+		<SimpleData name="longitude">139.4743363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4743363,35.44927058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">43</SimpleData>
+		<SimpleData name="addr_block_number">9</SimpleData>
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood">三丁目</SimpleData>
+		<SimpleData name="addr_quarter">渋谷</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市渋谷3－9－1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和渋谷3丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43801742</SimpleData>
+		<SimpleData name="longitude">139.4618282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.461828200000014,35.43801742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">44</SimpleData>
+		<SimpleData name="addr_block_number">3217</SimpleData>
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="addr_housenumber">16</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市林間1－3217－16</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">セブンイレブン大和林間1丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49525412</SimpleData>
+		<SimpleData name="longitude">139.4508918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4508918,35.49525412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">45</SimpleData>
+		<SimpleData name="addr_block_number">3294</SimpleData>
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="addr_housenumber"></SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">上和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上和田3294</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">スリーエフ大和上和田団地店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43694035</SimpleData>
+		<SimpleData name="longitude">139.4713031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4713031,35.43694035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">46</SimpleData>
+		<SimpleData name="addr_block_number">7</SimpleData>
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="addr_housenumber">5</SimpleData>
+		<SimpleData name="addr_neighbourhood">四丁目</SimpleData>
+		<SimpleData name="addr_quarter">西鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市西鶴間4－7－5</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">スリーエフ大和西鶴間店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48545223</SimpleData>
+		<SimpleData name="longitude">139.4494255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.449425499999961,35.48545223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">47</SimpleData>
+		<SimpleData name="addr_block_number">9</SimpleData>
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="addr_housenumber">17</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">大和東</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市大和東2－9－17</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">スリーエフ大和東店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47400799</SimpleData>
+		<SimpleData name="longitude">139.4620479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.462047899999988,35.47400799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">48</SimpleData>
+		<SimpleData name="addr_block_number">8</SimpleData>
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="addr_housenumber">15</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">桜森</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市桜森2－8－15</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">スリーエフ相模大塚駅前店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.4703119</SimpleData>
+		<SimpleData name="longitude">139.4399903</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4399903,35.4703119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">49</SimpleData>
+		<SimpleData name="addr_block_number">2</SimpleData>
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="addr_housenumber">14</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">南林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市南林間1-2-14</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">サンクス南林間店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49348583</SimpleData>
+		<SimpleData name="longitude">139.4478176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4478176,35.49348583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">50</SimpleData>
+		<SimpleData name="addr_block_number">1554</SimpleData>
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="addr_housenumber">5</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間1554-5</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">サークルＫ大和下鶴間北店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.51068895</SimpleData>
+		<SimpleData name="longitude">139.4514056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.451405599999987,35.51068895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">51</SimpleData>
+		<SimpleData name="addr_block_number">7</SimpleData>
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="addr_housenumber">25</SimpleData>
+		<SimpleData name="addr_neighbourhood">六丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見西</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見西6-7-25</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">サンクス大和深見西６丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48627828</SimpleData>
+		<SimpleData name="longitude">139.4637828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4637828,35.48627828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">52</SimpleData>
+		<SimpleData name="addr_block_number">1</SimpleData>
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="addr_housenumber">5</SimpleData>
+		<SimpleData name="addr_neighbourhood">八丁目</SimpleData>
+		<SimpleData name="addr_quarter">西鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市西鶴間8-1-5</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">サンクス大和西鶴間店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48360153</SimpleData>
+		<SimpleData name="longitude">139.44124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.44124,35.48360153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">53</SimpleData>
+		<SimpleData name="addr_block_number">960</SimpleData>
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="addr_housenumber"></SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下和田960</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">サンクス大和下和田店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43030586</SimpleData>
+		<SimpleData name="longitude">139.4683083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4683083,35.43030586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">54</SimpleData>
+		<SimpleData name="addr_block_number">7</SimpleData>
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="addr_housenumber">25</SimpleData>
+		<SimpleData name="addr_neighbourhood">六丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見西</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見西6-7-25</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">サンクス大和深見西６丁目店</SimpleData>
+		<SimpleData name="type">コンビニ </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48627828</SimpleData>
+		<SimpleData name="longitude">139.4637828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4637828,35.48627828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">55</SimpleData>
+		<SimpleData name="addr_block_number">4163</SimpleData>
+		<SimpleData name="id">55</SimpleData>
+		<SimpleData name="addr_housenumber">23</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間4163-23</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター緑野会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.50516123</SimpleData>
+		<SimpleData name="longitude">139.4393198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4393198,35.50516123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">56</SimpleData>
+		<SimpleData name="addr_block_number">14</SimpleData>
+		<SimpleData name="id">56</SimpleData>
+		<SimpleData name="addr_housenumber">24</SimpleData>
+		<SimpleData name="addr_neighbourhood">七丁目</SimpleData>
+		<SimpleData name="addr_quarter">南林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市南林間7-14-24</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター南林間会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49234023</SimpleData>
+		<SimpleData name="longitude">139.4381896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.438189599999959,35.49234023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">57</SimpleData>
+		<SimpleData name="addr_block_number">10</SimpleData>
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="addr_housenumber">29</SimpleData>
+		<SimpleData name="addr_neighbourhood">四丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見台</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見台4-10-29</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター深見中会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47379794</SimpleData>
+		<SimpleData name="longitude">139.4665704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4665704,35.47379794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">58</SimpleData>
+		<SimpleData name="addr_block_number">5</SimpleData>
+		<SimpleData name="id">58</SimpleData>
+		<SimpleData name="addr_housenumber">21</SimpleData>
+		<SimpleData name="addr_neighbourhood">三丁目</SimpleData>
+		<SimpleData name="addr_quarter">桜森</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市桜森3-5-21</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター桜森会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47275509</SimpleData>
+		<SimpleData name="longitude">139.4410495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4410495,35.47275509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">59</SimpleData>
+		<SimpleData name="addr_block_number">860</SimpleData>
+		<SimpleData name="id">59</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">上和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上和田860-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター桜丘会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.45265187</SimpleData>
+		<SimpleData name="longitude">139.4706756</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.470675599999964,35.45265187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">60</SimpleData>
+		<SimpleData name="addr_block_number">611</SimpleData>
+		<SimpleData name="id">60</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">福田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市福田611-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター下福田会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.43062214</SimpleData>
+		<SimpleData name="longitude">139.4570016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.457001600000012,35.43062214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">61</SimpleData>
+		<SimpleData name="addr_block_number">3</SimpleData>
+		<SimpleData name="id">61</SimpleData>
+		<SimpleData name="addr_housenumber">11</SimpleData>
+		<SimpleData name="addr_neighbourhood">五丁目</SimpleData>
+		<SimpleData name="addr_quarter">上草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上草柳5-3-11</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター上草柳会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47940397</SimpleData>
+		<SimpleData name="longitude">139.4530747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4530747,35.47940397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">62</SimpleData>
+		<SimpleData name="addr_block_number">2700</SimpleData>
+		<SimpleData name="id">62</SimpleData>
+		<SimpleData name="addr_housenumber">18</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">上和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市上和田2700-18</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター上和田会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.44080374</SimpleData>
+		<SimpleData name="longitude">139.4709149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4709149,35.44080374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">63</SimpleData>
+		<SimpleData name="addr_block_number">504</SimpleData>
+		<SimpleData name="id">63</SimpleData>
+		<SimpleData name="addr_housenumber">１</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間504-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター公所会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.51389293</SimpleData>
+		<SimpleData name="longitude">139.4588898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4588898,35.51389293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">64</SimpleData>
+		<SimpleData name="addr_block_number">5</SimpleData>
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="addr_housenumber">19</SimpleData>
+		<SimpleData name="addr_neighbourhood">六丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央6-5-19</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター下草柳会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46382124</SimpleData>
+		<SimpleData name="longitude">139.4599108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.459910799999989,35.46382124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">65</SimpleData>
+		<SimpleData name="addr_block_number">2516</SimpleData>
+		<SimpleData name="id">65</SimpleData>
+		<SimpleData name="addr_housenumber">2</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間2516-2</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター下鶴間会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49779781</SimpleData>
+		<SimpleData name="longitude">139.4628926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4628926,35.49779781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">66</SimpleData>
+		<SimpleData name="addr_block_number">791</SimpleData>
+		<SimpleData name="id">66</SimpleData>
+		<SimpleData name="addr_housenumber">2</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下和田</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下和田791-2</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター下和田会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.42556684</SimpleData>
+		<SimpleData name="longitude">139.4698233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4698233,35.42556684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">67</SimpleData>
+		<SimpleData name="addr_block_number">552</SimpleData>
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下草柳</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下草柳552-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター草柳会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.47127207</SimpleData>
+		<SimpleData name="longitude">139.4531043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4531043,35.47127207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">68</SimpleData>
+		<SimpleData name="addr_block_number">4444</SimpleData>
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="addr_housenumber">2</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">下鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市下鶴間4444-2</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター中央林間会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.51200022</SimpleData>
+		<SimpleData name="longitude">139.4464528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4464528,35.51200022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">69</SimpleData>
+		<SimpleData name="addr_block_number">12</SimpleData>
+		<SimpleData name="id">69</SimpleData>
+		<SimpleData name="addr_housenumber">35</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市鶴間2-12-35</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター鶴間会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.49109128</SimpleData>
+		<SimpleData name="longitude">139.4546236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4546236,35.49109128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">70</SimpleData>
+		<SimpleData name="addr_block_number">4</SimpleData>
+		<SimpleData name="id">70</SimpleData>
+		<SimpleData name="addr_housenumber">20</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">西鶴間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市西鶴間2-4-20</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター西鶴間会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.48970076</SimpleData>
+		<SimpleData name="longitude">139.4476839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.447683899999959,35.48970076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">71</SimpleData>
+		<SimpleData name="addr_block_number">498</SimpleData>
+		<SimpleData name="id">71</SimpleData>
+		<SimpleData name="addr_housenumber">5</SimpleData>
+		<SimpleData name="addr_neighbourhood"></SimpleData>
+		<SimpleData name="addr_quarter">深見</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見498-5</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター深見北会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.4861171</SimpleData>
+		<SimpleData name="longitude">139.4652954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4652954,35.4861171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">72</SimpleData>
+		<SimpleData name="addr_block_number">9</SimpleData>
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="addr_housenumber">19</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">深見台</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市深見台1-9-19</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター深見南会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46532732</SimpleData>
+		<SimpleData name="longitude">139.4694269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4694269,35.46532732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">73</SimpleData>
+		<SimpleData name="addr_block_number">22</SimpleData>
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="addr_housenumber">3</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">代官</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市代官1-22-3</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター福田会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.4418884</SimpleData>
+		<SimpleData name="longitude">139.4611369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.461136900000014,35.4418884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">74</SimpleData>
+		<SimpleData name="addr_block_number">12</SimpleData>
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="addr_housenumber">2</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">柳橘</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市柳橋2-12-2</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">コミュニティセンター柳橋会館</SimpleData>
+		<SimpleData name="type">コミセン </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.45635713</SimpleData>
+		<SimpleData name="longitude">139.4633239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.4633239,35.45635713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">75</SimpleData>
+		<SimpleData name="addr_block_number">1</SimpleData>
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood">二丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央2-1-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">相模鉄道株式会社　大和駅</SimpleData>
+		<SimpleData name="type">駅 </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46994878</SimpleData>
+		<SimpleData name="longitude">139.4612053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.461205299999989,35.46994878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">76</SimpleData>
+		<SimpleData name="addr_block_number">1</SimpleData>
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="addr_housenumber">1</SimpleData>
+		<SimpleData name="addr_neighbourhood">一丁目</SimpleData>
+		<SimpleData name="addr_quarter">大和南</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市大和南1-1-1</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">小田急電鉄株式会社　大和駅</SimpleData>
+		<SimpleData name="type">駅 </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.46968408</SimpleData>
+		<SimpleData name="longitude">139.461522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.461522,35.46968408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>スタンドパイプ</name>
+	<ExtendedData><SchemaData schemaUrl="#standpipe_yamato">
+		<SimpleData name="cartodb_id">77</SimpleData>
+		<SimpleData name="addr_block_number">6</SimpleData>
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="addr_housenumber">3</SimpleData>
+		<SimpleData name="addr_neighbourhood">四丁目</SimpleData>
+		<SimpleData name="addr_quarter">中央林間</SimpleData>
+		<SimpleData name="addr_city">大和市</SimpleData>
+		<SimpleData name="addr_province">神奈川県</SimpleData>
+		<SimpleData name="adress">大和市中央林間4-6-3</SimpleData>
+		<SimpleData name="fire_horse_landmark_xxx_description">東急電鉄株式会社　中央林間駅</SimpleData>
+		<SimpleData name="type">駅 </SimpleData>
+		<SimpleData name="name_zh">竖管</SimpleData>
+		<SimpleData name="name_es">soporte de tubo</SimpleData>
+		<SimpleData name="name_ja_hira">すたんどぱいぷ</SimpleData>
+		<SimpleData name="name_ja_latn">sutandopaipu</SimpleData>
+		<SimpleData name="name_en">Stand Pipe</SimpleData>
+		<SimpleData name="latitude">35.50753162</SimpleData>
+		<SimpleData name="longitude">139.444982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.444982,35.50753162</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
